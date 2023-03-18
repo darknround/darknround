@@ -15,7 +15,7 @@ body {
     background-color: #18191b;
     background-repeat: no-repeat;
     background-position: top center;
-    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgb(19, 20, 22) 15%), url(https://darknround.github.io/bg.jpg);
+    background-image: linear-gradient(to bottom, rgba(0, 0, 0, 0) 0%, rgb(19, 20, 22) 15%), url(https://darknround.github.io/darknround/bg.jpg);
 }
 
 a {
@@ -434,7 +434,7 @@ ul.thin li {
 #wrapper {
     width: 980px;
     padding: 0 5px;
-    background: url(https://darknround.github.io/gray-transparent.png);
+    background: url(https://darknround.github.io/darknround/gray-transparent.png);
     -webkit-border-radius: .75em;
     -moz-border-radius: .75em;
     border-radius: .75em;
@@ -464,7 +464,7 @@ ul.thin li {
     width: 960px;
     height: 140px;
     margin-bottom: 10px;
-    background-image: url(https://darknround.github.io/header.png);
+    background-image: url(https://darknround.github.io/darknround/header.png);
     background-repeat: no-repeat;
     background-position: center center
 }
