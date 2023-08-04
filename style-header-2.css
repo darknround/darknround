@@ -1781,6 +1781,10 @@ ul.potato-menu ul.potato-menu-group {
     text-align: left
 }
 
+ul.potato-menu:hover ul.potato-menu-group {
+    display: block;
+}
+
 ul.potato-menu ul.potato-menu-group li {
     margin: 0 !important;
     padding: 0 !important
